@@ -3,7 +3,7 @@ Hi user, welcome to the first candidate release of A* Calculator!
 When you open the calculator, you'll be able to see a very simple UI 
 with a text field, a set radio buttons and a calculate button.
 
-The text field is met for you to type the expression you wan to calculate.
+The text field is met for you to type the expression you want to calculate.
 The radio buttons, for Standard and Reverse Polish Notation is meant for
 you to enter the notation you want to calculate.
 
